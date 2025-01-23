@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me
 - 🌱 I’m currently student of BE Computer Engineering
 - 🔭 I’m currently working on Frontent Projects
-- 📫 How to reach me: aditipatel1705@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/aditi-patel-57b563306
 
 
 <!-- ## 🚀 My Skills
